@@ -1,0 +1,3 @@
+用js写一下wyag
+
+（但是没有commit的真的能叫wyag吗
