@@ -1,0 +1,21 @@
+lockfileVersion: 5.3
+
+specifiers:
+  commander: ^9.3.0
+  ini: ^3.0.0
+
+dependencies:
+  commander: 9.3.0
+  ini: 3.0.0
+
+packages:
+
+  /commander/9.3.0:
+    resolution: {integrity: sha512-hv95iU5uXPbK83mjrJKuZyFM/LBAoCV/XhVGkS5Je6tl7sxr6A0ITMw5WoRV46/UaJ46Nllm3Xt7IaJhXTIkzw==}
+    engines: {node: ^12.20.0 || >=14}
+    dev: false
+
+  /ini/3.0.0:
+    resolution: {integrity: sha512-TxYQaeNW/N8ymDvwAxPyRbhMBtnEwuvaTYpOQkFx1nSeusgezHniEc/l35Vo4iCq/mMiTJbpD7oYxN98hFlfmw==}
+    engines: {node: ^12.13.0 || ^14.15.0 || >=16.0.0}
+    dev: false

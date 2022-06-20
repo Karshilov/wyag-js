@@ -1,0 +1,16 @@
+{
+  "name": "wyag-js",
+  "version": "1.0.0",
+  "description": "wyag js ver.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "init": "node index.js init wyag"
+  },
+  "author": "Karshilov <karshilov@foxmail.com>",
+  "license": "GPL",
+  "dependencies": {
+    "commander": "^9.3.0",
+    "ini": "^3.0.0"
+  }
+}
